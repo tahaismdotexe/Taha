@@ -97,7 +97,7 @@ print """
 \033[1;93m   |                                           |
 \033[1;93m   |Github:  https://github.com/TahaHussainKhan567|
 \033[1;93m   |                                           |
-\033[1;93m   |Python Developer: Technical Zahid Mahmood           |
+\033[1;93m   |Helper: Technical Zahid Mahmood           |
 \033[1;93m   |                                           |
 \033[1;93m   ╚═══════════════════════════════════════════╝    
 
@@ -110,19 +110,19 @@ logo1 = """
 \033[1;95m       | |_) | __ _ _ __   __ _| | __ _ 
 \033[1;95m       |  _ < / _` | '_ \ / _` | |/ _` |
 \033[1;95m       | |_) | (_| | | | | (_| | | (_| |
-\033[1;95m       |____/ \__,_|_| |_|\__, |_|\__,_|.IDS CLONING
+\033[1;95m       |____/ \__,_|_| |_|\__, |_|\__,_|.Desh
 \033[1;95m                           __/ |        
 \033[1;95m                          |___/         
 
 """
 logo= """
 
-\033[1;93m               ______   _______ ___ ___ _______ ______ 
-\033[1;95m             |   _  \ |   _   |   Y   |   _   |   _  \
-\033[1;95m                |.  |   \|.  1___|.      |.  |   |.  |   |
-\033[1;95m               |.  |    |.  __)_|. \_/  |.  |   |.  |   |
-\033[1;95m              |:  1    |:  1   |:  |   |:  1   |:  |   |
-\033[1;93m             `------' `-------`--- ---`-------`--- ---'
+\033[1;93m              ______     _     _     _ 
+\033[1;95m             |___  /    | |   (_)   | |
+\033[1;95m                / / __ _| |__  _  __| |
+\033[1;95m               / / / _` | '_ \| |/ _` |
+\033[1;95m              / /_| (_| | | | | | (_| |
+\033[1;93m             /_____\__,_|_| |_|_|\__,_|
 """
 CorrectCodeWord = 'Taha'
 print '   \x1b[1;93m[🔒🔒🔒] CodeWord Required To Enter [🔒🔒🔒]'
@@ -131,7 +131,7 @@ while loop == 'true':
     CodeWord = raw_input('\x1b[1;93m[\x1b[1;92m@Zahid@\033[1;93m] \x1b[1;91m[🔐] Enter CodeWord\x1b[1;97m: ')
     if (CodeWord == CorrectCodeWord):
         print('\n            \x1b[1;92m🔓🔓🔓 Correct Entry 🔓🔓🔓 \n                  ')
-        jalan('    \x1b[1;97m•◈•◈•◈•◈• Welcome To Pakistani Tool •◈•◈•◈•◈•')
+        jalan('    \x1b[1;97m•◈•◈•◈•◈• Welcome To Bangla Tool •◈•◈•◈•◈•')
         loop = 'false'
     else:
         print '\x1b[1;91mWrong Entry!'
@@ -311,7 +311,7 @@ def automatic():
     p = ThreadPool(30)
     p.map(main, id)
     print 50 * '\x1b[1;95m'
-    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
+    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By TAHA HUSSAIN ◈◈◈◈◈◈◈◈◈◈◈ '
     print '[✅] Process Has Been Completed ...'
     print '[✅] Total Active/In-Active : ' + str(len(oks)) + '/' + str(len(cpb))
     print '[✅] Cloned Accounts Has Been Saved : cloned/idz.txt'
@@ -352,7 +352,7 @@ def own():
     jalan('\033[1;97m[✅] \x1b[1;97mTotal Numbers: ' + xxx)
     jalan('\x1b[1;97m[✅] \x1b[1;97mTrying Your Password Wait...')
     print 50 * '\x1b[1;95m◈'
-    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
+    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By TAHA HUSSAIN ◈◈◈◈◈◈◈◈◈◈◈ '
 
     def main(arg):
         user = arg
@@ -382,7 +382,7 @@ def own():
     p = ThreadPool(30)
     p.map(main, id)
     print 50 * '\x1b[1;95m'
-    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
+    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By TAHA HUSSAIN ◈◈◈◈◈◈◈◈◈◈◈ '
     print '[✅] Process Has Been Completed ...'
     print '[✅] Total Active/In-Active : ' + str(len(oks)) + '/' + str(len(cpb))
     print '[✅] Cloned Accounts Has Been Saved : cloned/idz.txt'
