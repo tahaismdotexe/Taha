@@ -85,18 +85,23 @@ os.system('clear')
 
 print """
 
-\033[1;93m               ______   ____  __ __   ____ 
-\033[1;93m             |      | /    ||  |  | /    |
-\033[1;93m                |      ||  o  ||  |  ||  o  |
-\033[1;93m               |_|  |_||     ||  _  ||     |
-\033[1;93m              |  |  |  _  ||  |  ||  _  |
-\033[1;93m               |__|  |__|__||__|__||__|__|
+
+                                 
+\033[1;97m    _______ _______ _______ _______ 
+\033[1;97m    |\     /|\     /|\     /|\     /|
+\033[1;97m    | +---+ | +---+ | +---+ | +---+ |
+\033[1;97m    | |   | | |   | | |   | | |   | |
+\033[1;97m    | |T  | | |A  | | |H  | | |A  | |
+\033[1;97m    | +---+ | +---+ | +---+ | +---+ |
+\033[1;97m    |/_____\|/_____\|/_____\|/_____\|
+                                 
+
 
 \033[1;91m   ╔═══════════════════════════════════════════╗
 \033[1;93m   |                                           |
 \033[1;92m   |Author:  Muhammad Taha Hussain Khan            |
 \033[1;93m   |                                           |
-\033[1;93m   |Github:  https://github.com/TahaHussainKhan567|
+\033[1;93m   |Github:  https://github.com/ZahidMahmood786|
 \033[1;93m   |                                           |
 \033[1;93m   |Python Creator: Technical Zahid Mahmood           |
 \033[1;93m   |                                           |
@@ -111,7 +116,7 @@ logo1 = """
 \033[1;95m       | |_) | __ _ _ __   __ _| | __ _ 
 \033[1;95m       |  _ < / _` | '_ \ / _` | |/ _` |
 \033[1;95m       | |_) | (_| | | | | (_| | | (_| |
-\033[1;95m       |____/ \__,_|_| |_|\__, |_|\__,_|.Id Clone
+\033[1;95m       |____/ \__,_|_| |_|\__, |_|\__,_|.ID CLONES
 \033[1;95m                           __/ |        
 \033[1;95m                          |___/         
 
@@ -123,7 +128,7 @@ logo= """
 \033[1;95m                / / __ _| |__  _  __| |
 \033[1;95m               / / / _` | '_ \| |/ _` |
 \033[1;95m              / /_| (_| | | | | | (_| |
-\033[1;93m             /_____\__,_|_| |_|_|\__,_|
+\033[1;93m             /_____\__,_|_| |_|_|\__,_|. PYTHON MAKER
 """
 CorrectCodeWord = 'Taha'
 print '   \x1b[1;93m[🔒🔒🔒] CodeWord Required To Enter [🔒🔒🔒]'
@@ -132,7 +137,7 @@ while loop == 'true':
     CodeWord = raw_input('\x1b[1;93m[\x1b[1;92m@Zahid@\033[1;93m] \x1b[1;91m[🔐] Enter CodeWord\x1b[1;97m: ')
     if (CodeWord == CorrectCodeWord):
         print('\n            \x1b[1;92m🔓🔓🔓 Correct Entry 🔓🔓🔓 \n                  ')
-        jalan('    \x1b[1;97m•◈•◈•◈•◈• Only Clone Bangla IDs •◈•◈•◈•◈•')
+        jalan('    \x1b[1;97m•◈•◈•◈•◈• Welcome To Pakistani Tool To Clone Bangla Ids •◈•◈•◈•◈•')
         loop = 'false'
     else:
         print '\x1b[1;91mWrong Entry!'
@@ -167,7 +172,7 @@ def login1():
     print logo
     print '\x1b[1;93m[\x1b[1;92m@Zahid@\033[1;93m] \x1b[1;93m[1]\x1b[1;93m Fast Clone Bangla FB Accounts.'
     print "\x1b[1;93m[\x1b[1;92m@Zahid@\033[1;93m] \033[1;93m[2] Subscribe My Channel"
-    print '\x1b[1;93m[\x1b[1;92m@Zahid@\033[1;93m] \x1b[1;93m[0]\x1b[1;93m Exit The Program.'
+    print '\x1b[1;93m[\x1b[1;92m@Zahid@\033[1;93m] \x1b[1;93m[0]\x1b[1;93m Challa Ja BSDK.'
     pilih_login1()
 
 
@@ -258,7 +263,7 @@ def automatic():
         Trypass()
 
     print 50 * '\033[1;95m◈'
-    print '\x1b[1;37;40m◈◈◈◈◈◈◈◈ Cloning Process Has Been Started ◈◈◈◈◈◈◈◈'
+    print '\x1b[1;37;40m◈◈◈◈◈◈◈◈ Cloning Start Ho Gyi BSDK ◈◈◈◈◈◈◈◈'
     print '\x1b[1;37;40m◈◈◈◈◈◈◈◈ To Stop The Process Press CTRl+Z ◈◈◈◈◈◈◈◈'
     xxx = str(len(id))
     jalan('[✅] \x1b[1;97mTotal Numbers: ' + xxx)
@@ -312,7 +317,7 @@ def automatic():
     p = ThreadPool(30)
     p.map(main, id)
     print 50 * '\x1b[1;95m'
-    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
+    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Taha Hussain ◈◈◈◈◈◈◈◈◈◈◈ '
     print '[✅] Process Has Been Completed ...'
     print '[✅] Total Active/In-Active : ' + str(len(oks)) + '/' + str(len(cpb))
     print '[✅] Cloned Accounts Has Been Saved : cloned/idz.txt'
@@ -347,13 +352,13 @@ def own():
         passmenu()
 
     print 50 * '\033[1;95m◈'
-    print '\x1b[1;37;40m◈◈◈◈◈◈◈◈ Cloning Process Has Been Started ◈◈◈◈◈◈◈◈'
+    print '\x1b[1;37;40m◈◈◈◈◈◈◈◈ Cloning Start Ho Gyi BSDK ◈◈◈◈◈◈◈◈'
     print '\x1b[1;37;40m◈◈◈◈◈◈◈◈ To Stop The Process Press CTRl+Z ◈◈◈◈◈◈◈◈'
     xxx = str(len(id))
     jalan('\033[1;97m[✅] \x1b[1;97mTotal Numbers: ' + xxx)
     jalan('\x1b[1;97m[✅] \x1b[1;97mTrying Your Password Wait...')
     print 50 * '\x1b[1;95m◈'
-    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
+    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Python By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
 
     def main(arg):
         user = arg
@@ -383,7 +388,7 @@ def own():
     p = ThreadPool(30)
     p.map(main, id)
     print 50 * '\x1b[1;95m'
-    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Developed By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
+    print '\x1b[1;95m◈◈◈◈◈◈◈◈◈◈◈ Python By Zahid Mahmood ◈◈◈◈◈◈◈◈◈◈◈ '
     print '[✅] Process Has Been Completed ...'
     print '[✅] Total Active/In-Active : ' + str(len(oks)) + '/' + str(len(cpb))
     print '[✅] Cloned Accounts Has Been Saved : cloned/idz.txt'
