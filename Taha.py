@@ -101,7 +101,7 @@ print """
 \033[1;93m   |                                           |
 \033[1;92m   |Author:  Muhammad Taha Hussain Khan            |
 \033[1;93m   |                                           |
-\033[1;93m   |Github:  https://github.com/ZahidMahmood786|
+\033[1;93m   |Github:  https://github.com/TahaHussainKhan567|
 \033[1;93m   |                                           |
 \033[1;93m   |Python Creator: Technical Zahid Mahmood           |
 \033[1;93m   |                                           |
